@@ -990,19 +990,19 @@
         "name": "AnimeBum",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.animebum",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/ruuuberth/anime-repo@repo/apk/aniyomi-es.animebum-v14.22.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/ruuuberth/anime-repo@repo/apk/aniyomi-es.animebum-v16.23.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ruuuberth/anime-repo@repo/icon/eu.kanade.tachiyomi.animeextension.es.animebum.png"
         },
-        "extensionLib": "14",
-        "versionCode": "22",
-        "versionName": "14.22",
+        "extensionLib": "16",
+        "versionCode": "23",
+        "versionName": "16.23",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "8233706727551070437",
             "name": "AnimeBum",
             "language": "es",
-            "homeUrl": "https://www.animebum.net"
+            "homeUrl": "https://animebum.org"
           }
         ]
       },
