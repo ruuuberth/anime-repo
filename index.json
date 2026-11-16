@@ -970,12 +970,12 @@
         "name": "AnimeAv1",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.animeav1",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/ruuuberth/anime-repo@repo/apk/aniyomi-es.animeav1-v16.9.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/ruuuberth/anime-repo@repo/apk/aniyomi-es.animeav1-v16.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ruuuberth/anime-repo@repo/icon/eu.kanade.tachiyomi.animeextension.es.animeav1.png"
         },
         "extensionLib": "16",
-        "versionCode": "9",
-        "versionName": "16.9",
+        "versionCode": "10",
+        "versionName": "16.10",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
