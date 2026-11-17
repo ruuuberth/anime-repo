@@ -970,12 +970,12 @@
         "name": "AnimeAv1",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.animeav1",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/ruuuberth/anime-repo@repo/apk/aniyomi-es.animeav1-v16.10.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/ruuuberth/anime-repo@repo/apk/aniyomi-es.animeav1-v16.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ruuuberth/anime-repo@repo/icon/eu.kanade.tachiyomi.animeextension.es.animeav1.png"
         },
         "extensionLib": "16",
-        "versionCode": "10",
-        "versionName": "16.10",
+        "versionCode": "11",
+        "versionName": "16.11",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -990,12 +990,12 @@
         "name": "AnimeBum",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.animebum",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/ruuuberth/anime-repo@repo/apk/aniyomi-es.animebum-v16.23.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/ruuuberth/anime-repo@repo/apk/aniyomi-es.animebum-v16.24.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ruuuberth/anime-repo@repo/icon/eu.kanade.tachiyomi.animeextension.es.animebum.png"
         },
         "extensionLib": "16",
-        "versionCode": "23",
-        "versionName": "16.23",
+        "versionCode": "24",
+        "versionName": "16.24",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1010,12 +1010,12 @@
         "name": "Animejl",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.animejl",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/ruuuberth/anime-repo@repo/apk/aniyomi-es.animejl-v14.23.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/ruuuberth/anime-repo@repo/apk/aniyomi-es.animejl-v14.24.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ruuuberth/anime-repo@repo/icon/eu.kanade.tachiyomi.animeextension.es.animejl.png"
         },
         "extensionLib": "14",
-        "versionCode": "23",
-        "versionName": "14.23",
+        "versionCode": "24",
+        "versionName": "14.24",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
